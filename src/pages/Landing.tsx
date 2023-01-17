@@ -4,6 +4,7 @@ import BxMoviePlay from "../components/BxMoviePlay";
 import theater from "../assets/movie_theater.png";
 import { useNavigate } from "react-router-dom";
 
+
 function Landing() {
   const navigate = useNavigate();
   return (
